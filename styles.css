@@ -1,0 +1,51 @@
+body {
+  font-family: 'Indie Flower', cursive;
+  font-size: large;
+  text-align: justify;
+}
+
+.trivia {
+  font-style: italic;
+}
+
+.list {
+  list-style: none;
+  padding-left: 15px;
+}
+
+.label{
+  font-weight: bold;
+}
+
+.header {
+  font-weight: bolder;
+  font-size: xx-large;
+}
+
+.content-box {
+  border: 4px solid #231230;
+  max-width: 314px;
+  margin: auto;
+  border-radius: 10px;
+}
+
+.tile {
+  border: 2px solid #231230;
+  padding: 5px;
+  border-radius: 5px;
+  margin: 5px;
+  background-color: #b7a5af;
+}
+
+.image-tile {
+  width: calc(100% - 14px);
+  max-width: 300px;
+  display: block;
+  border-radius: 5px;
+  border: 2px solid #231230;
+  margin: auto;
+}
+
+.background {
+  background-color: #845f73;
+}
